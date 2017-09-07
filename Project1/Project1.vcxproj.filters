@@ -13,10 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\0902">
+      <UniqueIdentifier>{c4182491-5151-42ef-a1cc-c6c0e2a9bda3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\0903">
+      <UniqueIdentifier>{51c5f0d8-21cc-46cd-9446-b8e9e7900f78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\0904">
+      <UniqueIdentifier>{fbd2e243-c4b5-4d55-88ad-1afe465e2a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\0907">
+      <UniqueIdentifier>{15fee014-7155-4e64-8da2-229f4fca2c80}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="090201.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test02.cpp">
+      <Filter>源文件\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="090301.cpp">
+      <Filter>源文件\0903</Filter>
+    </ClCompile>
+    <ClCompile Include="090401.cpp">
+      <Filter>源文件\0904</Filter>
+    </ClCompile>
+    <ClCompile Include="090402.cpp">
+      <Filter>源文件\0904</Filter>
+    </ClCompile>
+    <ClCompile Include="090403.cpp">
+      <Filter>源文件\0904</Filter>
+    </ClCompile>
+    <ClCompile Include="090701.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090702.cpp">
+      <Filter>源文件\0907</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
