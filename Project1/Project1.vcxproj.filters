@@ -87,5 +87,14 @@
     <ClCompile Include="090714.cpp">
       <Filter>源文件\0907</Filter>
     </ClCompile>
+    <ClCompile Include="090715.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090716.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090717.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
