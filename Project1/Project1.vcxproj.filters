@@ -27,9 +27,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="090201.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="test02.cpp">
       <Filter>源文件\0902</Filter>
     </ClCompile>
@@ -56,6 +53,15 @@
     </ClCompile>
     <ClCompile Include="090704.cpp">
       <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090705.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="09070502.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090201.cpp">
+      <Filter>源文件\0902</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
