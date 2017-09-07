@@ -51,5 +51,11 @@
     <ClCompile Include="090702.cpp">
       <Filter>源文件\0907</Filter>
     </ClCompile>
+    <ClCompile Include="090703.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
+    <ClCompile Include="090704.cpp">
+      <Filter>源文件\0907</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
