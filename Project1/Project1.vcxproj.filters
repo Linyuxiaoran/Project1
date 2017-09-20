@@ -153,5 +153,11 @@
     <ClCompile Include="091911.cpp">
       <Filter>源文件\0919</Filter>
     </ClCompile>
+    <ClCompile Include="091912.cpp">
+      <Filter>源文件\0919</Filter>
+    </ClCompile>
+    <ClCompile Include="091914.cpp">
+      <Filter>源文件\0919</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
