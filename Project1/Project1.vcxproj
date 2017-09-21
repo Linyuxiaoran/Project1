@@ -192,6 +192,9 @@
     <ClCompile Include="092102.cpp" />
     <ClCompile Include="092103.cpp" />
     <ClCompile Include="092104.cpp" />
+    <ClCompile Include="092105.cpp" />
+    <ClCompile Include="092106.cpp" />
+    <ClCompile Include="092107.cpp" />
     <ClCompile Include="test02.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
