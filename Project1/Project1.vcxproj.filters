@@ -34,6 +34,9 @@
     <Filter Include="源文件\0921">
       <UniqueIdentifier>{c92e1f6e-5aa8-43eb-ab01-aba1045b9390}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\0922">
+      <UniqueIdentifier>{9af50bf6-2b56-4754-83a7-38326c67008b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test02.cpp">
@@ -182,6 +185,18 @@
     </ClCompile>
     <ClCompile Include="092107.cpp">
       <Filter>源文件\0921</Filter>
+    </ClCompile>
+    <ClCompile Include="092108.cpp">
+      <Filter>源文件\0921</Filter>
+    </ClCompile>
+    <ClCompile Include="092201.cpp">
+      <Filter>源文件\0922</Filter>
+    </ClCompile>
+    <ClCompile Include="092202.cpp">
+      <Filter>源文件\0922</Filter>
+    </ClCompile>
+    <ClCompile Include="092203.cpp">
+      <Filter>源文件\0922</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
